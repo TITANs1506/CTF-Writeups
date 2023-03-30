@@ -1,7 +1,7 @@
 # **rotation**
 ## **Challenge**
 You will find the flag after decrypting this file
-Download the encrypted flag [here]().
+Download the encrypted flag [here](https://github.com/TITANs1506/CTF-Writeups/blob/main/PicoCTF%202023/Cryptography/rotation/encrypted.txt).
 
 ## **Writeup**
 Đề bài đã gợi ý quá rõ ràng về phương pháp mã hóa ROT nên mình chỉ đơn giản ném nó lên [CyberChef](https://gchq.github.io/CyberChef/) và điều chỉnh số lần rotate sao cho ra đúng định dạng flag thôi
