@@ -1,7 +1,7 @@
 # **PcapPosioning**
 ## **Challenge**
 How about some hide and seek heh?
-Download this [file]() and find the flag.
+Download this [file](https://github.com/TITANs1506/CTF-Writeups/blob/main/PicoCTF%202023/Forensics/PcapPoisioning/trace.pcap) and find the flag.
 ## **Writeup**
 File pcap thì chắc chắn chúng ta phải dùng đến wireshark rồi. Với kinh nghiệm chơi CTF hạn hẹp về pcap mình đã thử sort theo length để xem có gì thứ vị không vì thường với bài ít điểm như thế này thì flag thường rât dễ tìm và voila flag đây rồi:
 
