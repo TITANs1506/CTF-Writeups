@@ -1,7 +1,7 @@
 # **timer**
 ## **Challenge**
 You will find the flag after analysing this apk
-Download [here]().
+Download [here](https://github.com/TITANs1506/CTF-Writeups/blob/main/PicoCTF%202023/Reverse%20Engineering/timer/timer.apk).
 ## **Writeup**
 Vì đây là một file apk nên mình dùng công cụ [jadx](https://github.com/skylot/jadx) có sẵn trên Kali Linux để xem.
 
