@@ -2,7 +2,7 @@
 ## **Challenge**
 Someone just sent you an email claiming to be Google's co-founder Larry Page but you suspect a scam.
 Can you help us identify whose mail server the email actually originated from?
-Download the email file [here]. Flag: picoCTF{FirstnameLastname}
+Download the email file [here](https://github.com/TITANs1506/CTF-Writeups/blob/main/PicoCTF%202023/Forensics/who%20is%20it/email-export.eml). Flag: picoCTF{FirstnameLastname}
 ## **Writeup**
 Mình đánh giá đây là 1 bài CTF khá khoai khi định dạng flag là tên người như thế này. Để tìm được nguồn gốc của server ta phải tìm được ip trong file trước:
 ```
