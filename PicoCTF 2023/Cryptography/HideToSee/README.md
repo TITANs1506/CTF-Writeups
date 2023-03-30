@@ -3,6 +3,9 @@
 How about some hide and seek heh?
 Look at this image [here](https://github.com/TITANs1506/CTF-Writeups/blob/main/PicoCTF%202023/Cryptography/HideToSee/atbash.jpg).
 
+![image](https://user-images.githubusercontent.com/42516564/228805410-9c93d2c8-fcfa-4760-bfb8-10f8817014a5.png)
+
+
 ## **Writeup**
 Đầu tiên khi đề bài cho ta một bức ảnh việc đầu tiên ta phải nghĩ đến là chắc chắn có thông điệp gì đó giấu trong bức ảnh đó. Mình đã dùng công cụ [stegseek](https://github.com/RickdeJager/stegseek) để kiểm tra.
 
