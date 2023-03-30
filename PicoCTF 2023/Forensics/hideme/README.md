@@ -1,6 +1,7 @@
 # **hideme**
 ## **Challenge**
-
+Every file gets a flag.
+The SOC analyst saw one image been sent back and forth between two people. They decided to investigate and found out that there was more than what meets the eye [here](https://github.com/TITANs1506/CTF-Writeups/blob/main/PicoCTF%202023/Forensics/hideme/flag.png).
 ## **Writeup**
 Mình đã dùng *binwalk* để extract ra các file ẩn:
 ```
