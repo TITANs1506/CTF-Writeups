@@ -13,7 +13,6 @@ StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
 [i] Found passphrase: ""
 [i] Original filename: "encrypted.txt".
 [i] Extracting to "atbash.jpg.out".
-
 ```
 
 Ta thấy công cụ đã extract ra một file mới là **atbash.jpg.out** với flag bị encode.
