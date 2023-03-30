@@ -1,7 +1,7 @@
 # **Reverse**
 ## **Challenge**
 Try reversing this file? Can ya?
-I forgot the password to this [file](). Please find it for me?
+I forgot the password to this [file](https://github.com/TITANs1506/CTF-Writeups/blob/main/PicoCTF%202023/Reverse%20Engineering/Reverse/ret). Please find it for me?
 
 ## **Writeup**
 Thực sự mình khôn biết tí gì về reverse cả nên cứ phong cách cổ điển mà quất thôi :v
