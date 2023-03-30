@@ -1,9 +1,9 @@
 # **MSB**
 ## **Challenge**
 This image passes LSB statistical analysis, but we can't help but think there must be something to the visual artifacts present in this image...
-Download the image [here]().
+Download the image [here](https://github.com/TITANs1506/CTF-Writeups/blob/main/PicoCTF%202023/Forensics/MSB/Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisada.flag.png).
 ## **Writeup**
-Dùng công cụ [stegsolve]() để ta có thể extract data từ ảnh:
+Dùng công cụ [stegsolve](https://wiki.bi0s.in/steganography/stegsolve/) để ta có thể extract data từ ảnh:
 
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/42516564/228877865-c907577a-b60d-4ec9-9606-e4ec5c00d23b.png">
 
