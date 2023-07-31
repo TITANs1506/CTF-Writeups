@@ -1,4 +1,4 @@
-# **MAYDAY!**
+# **DIZZY**
 ## **Challenge**
 Embark on 'Dizzy', a carousel ride through cryptography! This warmup challenge spins you around the basics of ciphers and keys. Sharpen your mind, find the flag, and remember - in crypto, it's fun to get a little dizzy!
 
