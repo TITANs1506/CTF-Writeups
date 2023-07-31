@@ -59,13 +59,3 @@
   * [**findme**](https://github.com/TITANs1506/CTF-Writeups/tree/main/PicoCTF%202023/Web%20Exploitation/findme)
   
 </details>
-
-
-
-
-
-
-
-
-
-
