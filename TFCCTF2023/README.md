@@ -1,5 +1,6 @@
 # **TFCCTF2023**
-## Warmup before the storm
+## Process
+![image](https://github.com/TITANs1506/CTF-Writeups/assets/42516564/ebaf4bba-809f-47e0-8c82-329927312aec)
 
 ## **Challenge**
 <details>
