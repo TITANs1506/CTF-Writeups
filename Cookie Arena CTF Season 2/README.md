@@ -1,4 +1,4 @@
-# **![image](https://github.com/TITANs1506/CTF-Writeups/assets/42516564/e5357bf0-4281-4101-ae4f-5b3444032636)**
+# **Cookie Arena CTF Season 2**
 ## **Progress**
 
 ![image](https://github.com/TITANs1506/CTF-Writeups/assets/42516564/e5357bf0-4281-4101-ae4f-5b3444032636)
